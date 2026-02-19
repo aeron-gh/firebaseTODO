@@ -48,6 +48,12 @@ When you add a todo, it pushes the data into Firebase using push().
 
 Firebase notifies the app, and the todo list updates instantly.
 
-Contributing
+//*
+Current Behavior (Important)
+All users share the same global todo list.
+Since there is no authentication or user identification, tasks added by any user are visible to everyon
+*//
+
+--Contributing--
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
