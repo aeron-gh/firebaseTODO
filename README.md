@@ -28,7 +28,7 @@ Setup & Installation
 
 Clone this repository:
 
-git clone (https://github.com/Agarawala/dom-practice-withDB.git)
+git clone (git@github.com:aeron-gh/firebaseTODO.git)
 
 
 Open the project folder.
