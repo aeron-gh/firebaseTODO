@@ -28,7 +28,7 @@ Setup & Installation
 
 Clone this repository:
 
-git clone (git@github.com:aeron-gh/firebaseTODO.git)
+git clone (https://github.com/aeron-gh/firebaseTODO.git)
 
 
 Open the project folder.
